@@ -31,7 +31,7 @@ $ npm install axios
 
 ## Code Examples
 
-### In AXIOS
+### In AXIOS.
 ```
 const url = 'https://dog.ceo/api/breeds/image/random';
 
@@ -58,7 +58,7 @@ function getPhoto(){
 }
 
 ```
-We can seen in this code, we must to remember take element from API to convert into JSON.object (to do this We must use method 'element.json()')
+We can seen in this code, we must to remember take element from API to convert into JSON.object (to do this We must use method 'element.json()').
 ## Status
 Project is: _finished_
 
